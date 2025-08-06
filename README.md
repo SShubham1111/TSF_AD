@@ -8,6 +8,13 @@ machine learning techniques (Isolation Forest).The system is designed to be scal
 are crucial for decision-making.
 
 
+ Published in : 
+ 
+ International Journal of Research Publication and Reviews,Vol 5, no 12, pp 475-479 December 2024 
+ Research Paper - https://ijrpr.com/uploads/V5ISSUE12/IJRPR36074.pdf
+ certificate - https://ijrpr.com/certificate/download.php?paper_id=22668
+
+
 Architecture & Pipeline :
 
 A[Data Loading (.xlsx)] --> B[Exploratory Data Analysis (EDA)]
@@ -95,3 +102,11 @@ Future Scope :
 3. Deployment via Flask/FastAPI + dashboard (e.g., Streamlit/Plotly)
 
 
+Acknowledgments : 
+
+Bhilai Institute of Technology, Raipur Project Mentors & Reviewers Team: Aparna Pandey Mam (Mentor) ,S. Shubham ,Rishi Nirmalkar ,Tanya Wadhwani ,V. Shivani
+
+
+Contact :
+
+For queries or collaborations, feel free to reach out: GMAIL - sshubham22062003@gmail.com LINKEDIN - https://www.linkedin.com/in/s-shubham-317359229  
